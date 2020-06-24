@@ -1,0 +1,40 @@
+body {
+  background: url('https://wallpaperplay.com/walls/full/6/3/8/121401.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.masthead-brand {
+  background-color: grey;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    width : 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.alert-dark {
+width : 300px;
+margin-left: auto;
+margin-right: auto;
+}
+.cover-heading {
+  background-color: black;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.alert-primary {
+  width : 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card-body {
+  background-color: grey;
+}

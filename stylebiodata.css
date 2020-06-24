@@ -1,0 +1,50 @@
+body {
+  background: url('https://wallpapersite.com/images/wallpapers/watchtower-2560x1440-mountains-forest-minimal-cgi-hd-9387.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.masthead-brand {
+  background-color: grey;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    width : 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.alert-dark {
+  color: pink;
+width : 300px;
+margin-left: auto;
+margin-right: auto;
+}
+.cover-heading {
+  background-color: black;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.alert-primary {
+  width : 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card-body {
+  background-color: grey;
+}
+.icon-home {
+  height: 50px;
+}
+.carousel {
+  width:940px;
+  height:660px;
+  margin-left: auto;
+  margin-right: auto;
+}
